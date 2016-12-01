@@ -6,13 +6,13 @@
         "Zigo928",
         "Mypackage"
     ],
-    "homepage": "https://github.com/Zigo928/Mypackage",
+    "homepage": "https://github.com/zigo928/mypackage",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "zigo928",
+            "email": "zigo928@gmail.com",
+            "homepage": "https://github.com/zigo928/mypackage",
             "role": "Developer"
         }
     ],
