@@ -1,7 +1,7 @@
 {
     "name": "zigo928/mypackage",
     "type": "library",
-    "description": ":package_description",
+    "description": "demo for create laravel package",
     "keywords": [
         "Zigo928",
         "Mypackage"
